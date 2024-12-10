@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... **Legal questions & Laws questions**
 - 📫 How to reach me: ... **Open up a disscussions on a public Repo**
 - 😄 Pronouns: ... **HE/HIM**
-- ⚡ Fun fact: ...  Cleaniness is next to godiness 
+- ⚡ Fun fact: ...  Click the Link below to the link below 
 -->
 https://app.chargeflow.io/auth/sign-up?referralCode=ztusfsh

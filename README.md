@@ -1,3 +1,6 @@
+
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/jrichy1/jrichy1/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/jrichy1/jrichy1/actions/workflows/jekyll-gh-pages.yml)
+
 ## Hi there 👋
 
 **jrichy1/jrichy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...  Click the Link below to the link below 
 -->
 https://app.chargeflow.io/auth/sign-up?referralCode=ztusfsh
+
+

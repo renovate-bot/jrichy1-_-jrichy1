@@ -7,16 +7,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... *open-source-software*
-- 🌱 I’m currently learning ... *that there is alot of fraud online* 
+- 🔭 I’m currently working on ... **open-source-software**
+- 🌱 I’m currently learning ... **that there is alot of fraud online** 
 - 👯 I’m looking to collaborate on ... **security issues and misconfigurations**
 - 🤔 I’m looking for help with ... **My Sponsors Page** 
 - 💬 Ask me about ... **Legal questions & Laws questions**
 - 📫 How to reach me: ... **Open up a disscussions on a public Repo**
 - 😄 Pronouns: ... **HE/HIM**
 - ⚡ Fun fact: ...  Click the Link below to get a 1000$ in chargebacks
--->
-https://app.chargeflow.io/auth/sign-up?referralCode=ztusfsh
+_____________________________________________________________________________________________________________________________________________________________
+
+# Link Here 
+
+<https://app.chargeflow.io/auth/sign-up?referralCode=ztusfsh>
+
+
+
+
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=128091138" target="_blank" style="display: block" align="center">
   <picture>
@@ -24,9 +31,9 @@ https://app.chargeflow.io/auth/sign-up?referralCode=ztusfsh
     <img alt="Dashboard stats of @jrichy1" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=128091138&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
-
 <!-- Copy-paste in your Readme.md file -->
+
+
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=128091138&period=all_times" target="_blank" style="display: block" align="center">
   <picture>

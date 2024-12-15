@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... **Legal questions & Laws questions**
 - 📫 How to reach me: ... **Open up a disscussions on a public Repo**
 - 😄 Pronouns: ... **HE/HIM**
-- ⚡ Fun fact: ...  Click the Link below to get a 1000$ in chargebacks
+- ⚡ Fun fact: ...  **Click the Link below to get a 1000$ in chargebacks**
 _____________________________________________________________________________________________________________________________________________________________
 
 # Link Here 

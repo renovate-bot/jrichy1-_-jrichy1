@@ -14,16 +14,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... **Legal questions & Laws questions**
 - 📫 How to reach me: ... **Open up a disscussions on a public Repo**
 - 😄 Pronouns: ... **HE/HIM**
-- ⚡ Fun fact: ...  **Click the Link below to get a 1000$ in chargebacks**
-_____________________________________________________________________________________________________________________________________________________________
+- ⚡ Fun fact: ...  **Did you know that the first computer program was written by a woman**?
 
-# Link Here 
+ **_Ada Lovelace, often considered the world's first computer programmer, wrote the first algorithm intended to be processed by a 1  machine.  Her work on Charles Babbage's Analytical Engine laid the foundation for modern computer programming_**
+ _____________________________________________________________________________________________________________________________________________________________
 
-<https://app.chargeflow.io/auth/sign-up?referralCode=ztusfsh>
-
-
-
-
+**OVERVIEW**
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=128091138" target="_blank" style="display: block" align="center">
   <picture>
@@ -31,8 +27,8 @@ ________________________________________________________________________________
     <img alt="Dashboard stats of @jrichy1" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=128091138&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-<!-- Copy-paste in your Readme.md file -->
 
+<!-- Copy-paste in your Readme.md file -->
 
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=128091138&period=all_times" target="_blank" style="display: block" align="center">
@@ -43,3 +39,8 @@ ________________________________________________________________________________
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+# Contribution Panel
+-------------------------------------------------
+
+

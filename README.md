@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-# Contribution Panel
--------------------------------------------------
+# Contact Information
+------------------------------------------------- Mention me with @jrichy 
+- Email: jrichy1@icloud.com
+- phone: +12404280452
 
 

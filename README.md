@@ -1,4 +1,3 @@
-
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/jrichy1/jrichy1/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/jrichy1/jrichy1/actions/workflows/jekyll-gh-pages.yml)
 
 ## Hi there 👋
@@ -47,3 +46,7 @@ Here are some ideas to get you started:
 
 
   <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="http://github.com/jrichy1">jrichy1</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://g.dev/taskforceblue">jordan Richardson</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
+
+## Repository Overview
+
+This repository contains configuration files for GitHub Actions workflows, such as `.github/workflows/blank.yml` and `.github/workflows/jekyll-gh-pages.yml`, which are used for continuous integration and deployment. It also includes a `.gitignore` file that specifies files and directories to be ignored by Git, such as `node_modules` and build output files. Additionally, the repository has a `LICENSE` file with the BSD 3-Clause License, which outlines the terms and conditions for using, modifying, and distributing the code. The repository also includes a `renovate.json` file, which is used to configure Renovate, a tool for automating dependency updates, and a `.github/dependabot.yml` file, which is used to configure Dependabot, a tool for keeping dependencies up to date.

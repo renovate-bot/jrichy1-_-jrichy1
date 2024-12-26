@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "test": "bundle install && bundle exec jekyll build",
+    "build": "gem install bundler jekyll && bundle install && bundle exec jekyll build",
+    "launch": "gem install jekyll bundler && bundle install && bundle exec jekyll serve"
+  }
+}
